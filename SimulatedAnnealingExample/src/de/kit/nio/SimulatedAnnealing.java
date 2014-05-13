@@ -32,7 +32,7 @@ public class SimulatedAnnealing {
 
 		Solution bestSolution = currentSolution;
 		double bestEnergy = currentEnergy;
-
+ 
 		double T = 180;
 		double alpha = 0.9;
 		double distance = 0.1;
